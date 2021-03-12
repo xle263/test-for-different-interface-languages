@@ -1,2 +1,2 @@
 # qa-autotests-course
-homeworks for stepik
+Here homeworks from course "test automation with python and selenium" are stored
